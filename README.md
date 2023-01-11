@@ -3,3 +3,9 @@
 * Wrote queries on the database and created visualizations
 * Created an interactive animated graph app giving overview of the data and deployed on render
 * Theorized use cases and performed appropriate analysis
+
+## [Project 2: Wartime Presidents Inaugural Addresses: NLP Analysis](https://github.com/thclough/inaugural_address_analysis)
+* Processed text from selected inaugural addresses using regex
+* Generated word clouds for each speech
+* Visualized sentiment scores for comparison
+* Create sankey diagram to show common usage of non-trivial words
