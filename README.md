@@ -11,12 +11,14 @@
 * Visualized sentiment scores for comparison
 * Create sankey diagram to show common usage of non-trivial words
 
-<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/word_clouds.png" height=300 width=450 align="left">
-</img>
-<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/vocab_sankey.png" height=250 width=500 align="right">
-</img>
+<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/word_clouds.png" height=300 width=450 align="left"></img>
+<p>
+<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/vocab_sankey.png" height=250 width=500"></img>
+</p>
+
+<br>
 
 ## [Project 3: Challenger Incident Analysis](https://github.com/thclough/challenger_incident_analysis)
-* Calculated inverse distance-weighted temperatures from weather station data examine the *Challenger* Shuttle Disaster
+* Calculated inverse distance-weighted temperatures from weather station data to investingate the *Challenger* Shuttle Disaster
 * Visualized temperatures across United States on a given day using numpy array meshgrids and overlaying on a US map
 * Integrated visualizations into a story of the incident
