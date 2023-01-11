@@ -13,8 +13,8 @@
 
 <!--[](/preview_images/word_clouds.png) -->
 
-<img src="/preview_images/word_clouds.png" height=300 width=450 align="left"/>
-<img src="/preview_images/vocab_sankey.png" height=250 width=500/>
+<img src="preview_images/word_clouds.png" height=300 width=450 align="left"/>
+<img src="preview_images/vocab_sankey.png" height=250 width=500/>
 
 <br>
 
