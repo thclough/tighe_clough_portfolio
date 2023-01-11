@@ -5,13 +5,13 @@
 * Created an interactive animated graph app giving overview of the data and deployed on render
 * Theorized use cases and performed appropriate analysis
 
+<img src="preview_images/cites_dash_demo.gif" height=424 width=1024 align="left"/>
+
 ## [Project 2: Wartime Presidents Inaugural Addresses: NLP Analysis](https://github.com/thclough/inaugural_address_analysis)
 * Processed text from selected inaugural addresses using regex
 * Generated word clouds for each speech
 * Visualized sentiment scores for comparison
 * Create sankey diagram to show common usage of non-trivial words
-
-<!--[](/preview_images/word_clouds.png) -->
 
 <img src="preview_images/word_clouds.png" height=300 width=450 align="left"/>
 <img src="preview_images/vocab_sankey.png" height=250 width=500/>
