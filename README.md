@@ -11,7 +11,7 @@
 * Visualized sentiment scores for comparison
 * Create sankey diagram to show common usage of non-trivial words
 
-<img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/word_clouds.png" height=300 width=450 align="left"></img>
+<img src="/preview_images/word_clouds.png" height=300 width=450 align="left"></img>
 <p>
 <img src="https://github.com/thclough/inaugural_address_analysis/blob/main/output/vocab_sankey.png" height=250 width=500"></img>
 </p>
