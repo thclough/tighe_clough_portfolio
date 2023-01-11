@@ -1,6 +1,6 @@
 ## [Project 1: Endangered Animal Database Construction and Analysis](https://github.com/thclough/endangered_db)
 * Created a database to integrate various data sources on endangered species trade
-* Wrangled BIG, MESSY data on trades for database compatibility and easier analysis
+* Wrangled big, messy data on trades for database compatibility and easier analysis
 * Wrote queries on the database (used CTE's, staging tables, joins, window functions, etc.) and created visualizations
 * Created an interactive animated graph app giving overview of the data and deployed on render
 * Theorized use cases and performed appropriate analysis
