@@ -1,3 +1,5 @@
+Please see my featured projects:
+
 ## [Project 1: Endangered Animal Database Construction and Analysis](https://github.com/thclough/endangered_db)
 * Created a database to integrate various data sources on endangered species trade
 * Wrangled big, messy data on trades for database compatibility and easier analysis
