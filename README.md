@@ -4,9 +4,10 @@ Please see my featured projects:
 * Created a database to integrate various data sources on endangered species trade
 * Wrangled big, messy data on trades for database compatibility and easier analysis
 * Wrote queries on the database (used CTE's, staging tables, joins, window functions, etc.) and created visualizations
-* Created an interactive animated graph app giving overview of the data and deployed on render
+* Created an [interactive animated graph app](https://clough-tighe-hastings-cites-dash.onrender.com) giving overview of the data and deployed on render
 * Theorized use cases and performed appropriate analysis
 
+Preview of app:
 <img src="preview_images/cites_dash_demo.gif" height=424 width=1024 align="left"/>
 
 ## [Project 2: Wartime Presidents Inaugural Addresses: NLP Analysis](https://github.com/thclough/inaugural_address_analysis)
