@@ -22,3 +22,5 @@
 * Calculated inverse distance-weighted temperatures from weather station data to investingate the *Challenger* Shuttle Disaster
 * Visualized temperatures across United States on a given day using numpy array meshgrids and overlaying on a US map
 * Integrated visualizations into a story of the incident
+
+<img src="preview_images/usa_temp.gif"/>
