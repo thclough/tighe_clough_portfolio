@@ -22,7 +22,7 @@ Preview of app:
 <br>
 
 ## [Project 3: Challenger Incident Analysis](https://github.com/thclough/challenger_incident_analysis)
-* Calculated inverse distance-weighted temperatures from weather station data to investingate the *Challenger* Shuttle Disaster
+* Calculated inverse distance-weighted temperatures from weather station data to investigate the *Challenger* Shuttle Disaster
 * Visualized temperatures across the United States on a given day using numpy array meshgrids and overlaying on a US map
 * Integrated visualizations into a story of the incident
 
