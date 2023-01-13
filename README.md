@@ -4,7 +4,7 @@ Please see my featured projects:
 * Designed a database to integrate various data sources on endangered species trade
 * Wrangled big, messy data on trades for the purpose of database compatibility and easier analysis
 * Wrote queries on the database (used CTE's, staging tables, joins, window functions, etc.) and created visualizations
-* Created an [interactive animated graph app](https://clough-tighe-hastings-cites-dash.onrender.com) giving an overview of the data and deployed on render
+* Created an [interactive animated graph app](https://clough-tighe-hastings-cites-dash.onrender.com) giving an overview of the data and deployed on render (I have the free version of render so you may need to give it a few minutes to load, if you have the patience that is ;))
 * Theorized use cases and performed appropriate analysis
 
 Preview of app:
