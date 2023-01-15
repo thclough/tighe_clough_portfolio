@@ -1,4 +1,4 @@
-Please see summariies my featured projects below. Click on a project's title access it.
+Please see summaries of my featured projects below. Click on a project's title access it.
 
 ## [Project 1: Endangered Animal Database Construction and Analysis](https://github.com/thclough/endangered_db)
 * Designed a database to integrate various data sources on endangered species trade
