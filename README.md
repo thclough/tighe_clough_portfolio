@@ -1,4 +1,4 @@
-Please see summaries of my featured projects below. Click on a project's title access it.
+Please see summaries of my featured projects below. Click on a project's title to access it.
 ## [Project 1: Stochastic Matrix Calculator](https://github.com/thclough/stochastic_matrix_calculator) 
 #### in collaboration with [Alton Banushi](https://github.com/banushi-a)
 * Automate common calculations and classfications for a given right stochastic matrix (see readme for list of calculations)
