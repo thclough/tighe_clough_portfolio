@@ -20,7 +20,7 @@ Write ML algos from scratch, highest level of abstraction is numpy, test with du
 - ✅ vanilla RNN, GRU, LSTM units that accomodate irregular sequence lengths (packed like pytorch)
 - ⬜ Write autograd engine and rework all layers for simplication
 - ⬜ Bidirectional LSTM
-- ⬜ Transfromer Encoders and Decoders?
+- ⬜ Transformer Encoders and Decoders?
 
 ## [Project 3: Stochastic Matrix Calculator](https://github.com/thclough/stochastic_matrix_calculator) 
 #### in collaboration with [Alton Banushi](https://github.com/banushi-a)
