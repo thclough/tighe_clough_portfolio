@@ -8,7 +8,7 @@ Please see summaries of my featured projects below. Click on a project's title t
 ## [Project 2: We Have ML at Home - my humble ML Framework](https://github.com/thclough/we_have_ml_at_home)
 Write ML algos from scratch, highest level of abstraction is numpy, test with dummy data sets (no C++ level GPU code...yet)
 - ✅ Data loaders to load in large CSV's
-- ✅ Custom data structures to accomodate training on my slow CPU (in the no_resources dir)
+- ✅ Custom data structures to accommodate training on my slow CPU (in the no_resources dir)
 - ✅ Model "drivers", show loss graphs during training, save model training history, save and load models to further refine
 - ✅ Dense layers (regular neural networks)
 - ✅ L2 Regularization
@@ -17,8 +17,8 @@ Write ML algos from scratch, highest level of abstraction is numpy, test with du
 - ✅ Drop out layer
 - ✅ Common loss functions
 - ✅ Common initializers
-- ✅ vanilla RNN, GRU, LSTM units that accomodate irregular sequence lengths (packed like pytorch)
-- ⬜ Write autograd engine and rework all layers for simplication
+- ✅ vanilla RNN, GRU, LSTM units that accommodate irregular sequence lengths (packed like pytorch)
+- ⬜ Write autograd engine and rework all layers for simplification
 - ⬜ Bidirectional LSTM
 - ⬜ Transformer Encoders and Decoders?
 
